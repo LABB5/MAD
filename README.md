@@ -1,0 +1,2 @@
+# MAD
+del .git files
